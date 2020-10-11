@@ -16,7 +16,7 @@
 
 /* V3 */
 /* for DVFS OPP table L */
-#define CPU_DVFS_FREQ0_LL_FY		2100000		/* KHz */
+#define CPU_DVFS_FREQ0_LL_FY		1989000		/* KHz */
 #define CPU_DVFS_FREQ1_LL_FY		1924000		/* KHz */
 #define CPU_DVFS_FREQ2_LL_FY		1846000		/* KHz */
 #define CPU_DVFS_FREQ3_LL_FY		1781000		/* KHz */
@@ -107,7 +107,7 @@
 
 /* V4 & V5_1*/
 /* for DVFS OPP table L */
-#define CPU_DVFS_FREQ0_LL_FY2		2100000		/* KHz */
+#define CPU_DVFS_FREQ0_LL_FY2		1989000		/* KHz */
 #define CPU_DVFS_FREQ1_LL_FY2		1924000		/* KHz */
 #define CPU_DVFS_FREQ2_LL_FY2		1846000		/* KHz */
 #define CPU_DVFS_FREQ3_LL_FY2		1781000		/* KHz */
@@ -198,7 +198,7 @@
 
 /* V5_2 */
 /* for DVFS OPP table L */
-#define CPU_DVFS_FREQ0_LL_FY3		2100000		/* KHz */
+#define CPU_DVFS_FREQ0_LL_FY3		1989000		/* KHz */
 #define CPU_DVFS_FREQ1_LL_FY3		1924000		/* KHz */
 #define CPU_DVFS_FREQ2_LL_FY3		1846000		/* KHz */
 #define CPU_DVFS_FREQ3_LL_FY3		1781000		/* KHz */
@@ -289,7 +289,7 @@
 
 /* V5_3 */
 /* for DVFS OPP table L */
-#define CPU_DVFS_FREQ0_LL_FY4		2100000		/* KHz */
+#define CPU_DVFS_FREQ0_LL_FY4		1989000		/* KHz */
 #define CPU_DVFS_FREQ1_LL_FY4		1924000		/* KHz */
 #define CPU_DVFS_FREQ2_LL_FY4		1846000		/* KHz */
 #define CPU_DVFS_FREQ3_LL_FY4		1781000		/* KHz */

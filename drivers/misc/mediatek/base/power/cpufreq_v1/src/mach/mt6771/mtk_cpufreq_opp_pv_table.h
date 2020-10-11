@@ -19,7 +19,7 @@
 /* V3 */
 static unsigned int fyTbl[NR_FREQ * NR_MT_CPU_DVFS][ARRAY_COL_SIZE] = {
 	/* Freq, Vproc, post_div, clk_div */
-	{ 2100, 80, 1, 1 },	/* L */
+	{ 1989, 80, 1, 1 },	/* L */
 	{ 1924, 76, 1, 1 },
 	{ 1846, 72, 1, 1 },
 	{ 1781, 68, 1, 1 },
@@ -74,7 +74,7 @@ static unsigned int fyTbl[NR_FREQ * NR_MT_CPU_DVFS][ARRAY_COL_SIZE] = {
 /* V4 & V5_1*/
 static unsigned int fy2Tbl[NR_FREQ * NR_MT_CPU_DVFS][ARRAY_COL_SIZE] = {
 	/* Freq, Vproc, post_div, clk_div */
-	{ 2100, 72, 1, 1 },	/* L */
+	{ 1989, 72, 1, 1 },	/* L */
 	{ 1924, 68, 1, 1 },
 	{ 1846, 64, 1, 1 },
 	{ 1781, 60, 1, 1 },
@@ -129,7 +129,7 @@ static unsigned int fy2Tbl[NR_FREQ * NR_MT_CPU_DVFS][ARRAY_COL_SIZE] = {
 /* V5_2 */
 static unsigned int fy3Tbl[NR_FREQ * NR_MT_CPU_DVFS][ARRAY_COL_SIZE] = {
 	/* Freq, Vproc, post_div, clk_div */
-	{ 2100, 76, 1, 1 },	/* L */
+	{ 1989, 76, 1, 1 },	/* L */
 	{ 1924, 72, 1, 1 },
 	{ 1846, 68, 1, 1 },
 	{ 1781, 64, 1, 1 },
@@ -184,7 +184,7 @@ static unsigned int fy3Tbl[NR_FREQ * NR_MT_CPU_DVFS][ARRAY_COL_SIZE] = {
 /* V5_3 */
 static unsigned int fy4Tbl[NR_FREQ * NR_MT_CPU_DVFS][ARRAY_COL_SIZE] = {
 	/* Freq, Vproc, post_div, clk_div */
-	{ 2100, 80, 1, 1 },	/* L */
+	{ 1989, 80, 1, 1 },	/* L */
 	{ 1924, 76, 1, 1 },
 	{ 1846, 72, 1, 1 },
 	{ 1781, 68, 1, 1 },
